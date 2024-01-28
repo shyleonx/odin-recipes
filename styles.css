@@ -1,0 +1,14 @@
+body {
+    background-color: bisque;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+}
+
+body h1 {
+    font-size: 66px;
+    color: rgb(202, 15, 15);
+}
+
+body ul li {
+    font-size: 30px;
+}
