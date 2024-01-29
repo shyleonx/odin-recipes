@@ -6,9 +6,40 @@ body {
 
 body h1 {
     font-size: 66px;
-    color: rgb(202, 15, 15);
+    color: rgb(202, 15, 15); 
 }
 
-body ul li {
-    font-size: 30px;
+body .dish-heading {
+    width: 60%;
+    margin: 24px auto;
+    padding: 12px 24px;
+    background-color: #f5f5f5;
+}
+
+body ul {
+    width: 40%;
+    margin: 0 auto;
+}
+
+body ul li, body ol li {
+    font-size: 18px;
+    margin: 20px;
+}
+
+
+body ol {
+    width: 40%;
+    margin: 0 auto;
+}
+
+body h4 {
+    color:cadetblue;
+    font-size: 36px;
+}
+
+body p {
+    font-size: 18px;
+    width: 40%;
+    padding: 12px 24px;
+    margin: 0 auto;
 }
